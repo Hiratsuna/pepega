@@ -23,6 +23,9 @@ body,html{
 .msg_card_body{
 	overflow-y: auto;
 	scrollbar-color: black;
+	scrollbar-track-color: #4cd137;
+	scrollbar-base-color: aliceblue;
+	scrollbar-highlight-color: aqua;
 }
 .card-header{
 	border-radius: 15px 15px 0 0 !important;
